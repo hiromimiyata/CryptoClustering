@@ -45,5 +45,3 @@ Fit the K-means model using the PCA data.
 Predict the clusters to group the cryptocurrencies using the PCA data.
 Create a scatter plot to visualize the clusters.
 Answer the question: What is the impact of using fewer features to cluster the data using K-Means?
-
-Feel free to explore and modify the
